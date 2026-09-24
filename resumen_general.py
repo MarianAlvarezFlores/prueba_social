@@ -311,7 +311,7 @@ html_content = """<!DOCTYPE html>
 <body>
   <div class="header">
     <div>
-      <h1>DASHBOARD DE INTELIGENCIA • COMPACTO MEDIOS</h1>
+      <h1>DASHBOARD DE REDES SOCIALES • COMPACTO MEDIOS</h1>
       <p>Monitoreo diario integral • Seguridad Vial • 24.09</p>
     </div>
     <div style="display: flex; gap: 10px; align-items: center;">
